@@ -1,0 +1,802 @@
+[
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=0",
+    "caption": "Amazing day!",
+    "date": "4 dagen geleden"
+  },
+  {
+    "username": "john_doe",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "New post!",
+    "date": "18 dagen geleden"
+  },
+  {
+    "username": "john_doe",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=2",
+    "caption": "Art in progress.",
+    "date": "14 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=3",
+    "caption": "New post!",
+    "date": "1 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Just wow.",
+    "date": "19 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Feeling inspired.",
+    "date": "29 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "New post!",
+    "date": "9 dagen geleden"
+  },
+  {
+    "username": "john_doe",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Amazing day!",
+    "date": "12 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=8",
+    "caption": "What a view!",
+    "date": "26 dagen geleden"
+  },
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Weekend vibes.",
+    "date": "19 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Art in progress.",
+    "date": "17 dagen geleden"
+  },
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "New post!",
+    "date": "11 dagen geleden"
+  },
+  {
+    "username": "gamer123",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Throwback!",
+    "date": "13 dagen geleden"
+  },
+  {
+    "username": "gamer123",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=13",
+    "caption": "Just wow.",
+    "date": "18 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Feeling inspired.",
+    "date": "15 dagen geleden"
+  },
+  {
+    "username": "chefextra",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Just wow.",
+    "date": "28 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=16",
+    "caption": "Check this out!",
+    "date": "22 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=17",
+    "caption": "Art in progress.",
+    "date": "5 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "New post!",
+    "date": "28 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=19",
+    "caption": "Check this out!",
+    "date": "29 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Art in progress.",
+    "date": "6 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=21",
+    "caption": "Weekend vibes.",
+    "date": "9 dagen geleden"
+  },
+  {
+    "username": "john_doe",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Just wow.",
+    "date": "18 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Just wow.",
+    "date": "22 dagen geleden"
+  },
+  {
+    "username": "john_doe",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "22 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Check this out!",
+    "date": "21 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Feeling inspired.",
+    "date": "16 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=27",
+    "caption": "Throwback!",
+    "date": "1 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=28",
+    "caption": "Amazing day!",
+    "date": "12 dagen geleden"
+  },
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Check this out!",
+    "date": "5 dagen geleden"
+  },
+  {
+    "username": "john_doe",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=30",
+    "caption": "Amazing day!",
+    "date": "18 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=31",
+    "caption": "What a view!",
+    "date": "16 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=32",
+    "caption": "Amazing day!",
+    "date": "30 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=33",
+    "caption": "What a view!",
+    "date": "9 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=34",
+    "caption": "Just wow.",
+    "date": "8 dagen geleden"
+  },
+  {
+    "username": "chefextra",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=35",
+    "caption": "New post!",
+    "date": "29 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=36",
+    "caption": "Feeling inspired.",
+    "date": "13 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=37",
+    "caption": "Throwback!",
+    "date": "13 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Just wow.",
+    "date": "9 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=39",
+    "caption": "What a view!",
+    "date": "22 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=40",
+    "caption": "What a view!",
+    "date": "20 dagen geleden"
+  },
+  {
+    "username": "gamer123",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Throwback!",
+    "date": "16 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=42",
+    "caption": "Throwback!",
+    "date": "9 dagen geleden"
+  },
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Amazing day!",
+    "date": "11 dagen geleden"
+  },
+  {
+    "username": "john_doe",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=44",
+    "caption": "New post!",
+    "date": "24 dagen geleden"
+  },
+  {
+    "username": "chefextra",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "What a view!",
+    "date": "10 dagen geleden"
+  },
+  {
+    "username": "chefextra",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "4 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Amazing day!",
+    "date": "10 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "14 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Throwback!",
+    "date": "12 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Throwback!",
+    "date": "30 dagen geleden"
+  },
+  {
+    "username": "john_doe",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=51",
+    "caption": "Nature is healing.",
+    "date": "17 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Art in progress.",
+    "date": "14 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=53",
+    "caption": "Amazing day!",
+    "date": "29 dagen geleden"
+  },
+  {
+    "username": "gamer123",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=54",
+    "caption": "Weekend vibes.",
+    "date": "7 dagen geleden"
+  },
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Just wow.",
+    "date": "3 dagen geleden"
+  },
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=56",
+    "caption": "Weekend vibes.",
+    "date": "7 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "New post!",
+    "date": "2 dagen geleden"
+  },
+  {
+    "username": "chefextra",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "What a view!",
+    "date": "12 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=59",
+    "caption": "Nature is healing.",
+    "date": "15 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Check this out!",
+    "date": "1 dagen geleden"
+  },
+  {
+    "username": "gamer123",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=61",
+    "caption": "Just wow.",
+    "date": "11 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "21 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "7 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Feeling inspired.",
+    "date": "24 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=65",
+    "caption": "Feeling inspired.",
+    "date": "19 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=66",
+    "caption": "New post!",
+    "date": "28 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "27 dagen geleden"
+  },
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=68",
+    "caption": "Just wow.",
+    "date": "9 dagen geleden"
+  },
+  {
+    "username": "chefextra",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=69",
+    "caption": "What a view!",
+    "date": "22 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "What a view!",
+    "date": "17 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Feeling inspired.",
+    "date": "29 dagen geleden"
+  },
+  {
+    "username": "traveler",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=72",
+    "caption": "Check this out!",
+    "date": "4 dagen geleden"
+  },
+  {
+    "username": "gamer123",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "New post!",
+    "date": "25 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=74",
+    "caption": "New post!",
+    "date": "27 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Throwback!",
+    "date": "1 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=76",
+    "caption": "Feeling inspired.",
+    "date": "11 dagen geleden"
+  },
+  {
+    "username": "chefextra",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Check this out!",
+    "date": "6 dagen geleden"
+  },
+  {
+    "username": "gamer123",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Throwback!",
+    "date": "20 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=79",
+    "caption": "Throwback!",
+    "date": "24 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "19 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=81",
+    "caption": "Throwback!",
+    "date": "16 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=82",
+    "caption": "Art in progress.",
+    "date": "13 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "17 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Art in progress.",
+    "date": "6 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=85",
+    "caption": "Check this out!",
+    "date": "17 dagen geleden"
+  },
+  {
+    "username": "artlover",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=86",
+    "caption": "Weekend vibes.",
+    "date": "23 dagen geleden"
+  },
+  {
+    "username": "citylife",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=87",
+    "caption": "Art in progress.",
+    "date": "20 dagen geleden"
+  },
+  {
+    "username": "gamer123",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Just wow.",
+    "date": "9 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=89",
+    "caption": "Amazing day!",
+    "date": "30 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=90",
+    "caption": "Just wow.",
+    "date": "28 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=91",
+    "caption": "Check this out!",
+    "date": "24 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Amazing day!",
+    "date": "2 dagen geleden"
+  },
+  {
+    "username": "chefextra",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "contentType": "image",
+    "contentUrl": "https://source.unsplash.com/random/600x400?sig=93",
+    "caption": "New post!",
+    "date": "24 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "6 dagen geleden"
+  },
+  {
+    "username": "naturefan",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Just wow.",
+    "date": "23 dagen geleden"
+  },
+  {
+    "username": "musiclover",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Amazing day!",
+    "date": "29 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Amazing day!",
+    "date": "20 dagen geleden"
+  },
+  {
+    "username": "jane_smith",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "21 dagen geleden"
+  },
+  {
+    "username": "techguru",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "contentType": "video",
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "caption": "Nature is healing.",
+    "date": "8 dagen geleden"
+  }
+]
